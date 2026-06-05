@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-I'm a **Machine Learning Engineer** and **Computer Vision enthusiast** completing my BCA at Graphic Era University (CGPA: 8.7). I build end-to-end AI systems — from gesture-controlled desktops to RAG-powered chatbots using Claude API.
+I'm a **Machine Learning Engineer** and **Computer Vision enthusiast** completing my BCA at Graphic Era University. I build end-to-end AI systems — from gesture-controlled desktops to RAG-powered chatbots using Claude API.
 
 - 🔭 Building → **VisionDesk AI** — Vision Pro-inspired, gesture-controlled AI desktop
 - 🤖 Experienced in → **RAG pipelines, LLM applications, CV systems, ML deployment**
