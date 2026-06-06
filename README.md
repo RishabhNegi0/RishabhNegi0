@@ -108,7 +108,7 @@ I'm a **Machine Learning Engineer** and **Computer Vision enthusiast** completin
 
 **💬 Open to ML/AI roles, CV projects & research collaborations**
 
-[![PayPal](https://img.shields.io/badge/Support%20My%20Work-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@RishabhNegi73)
+[![PayPal](https://img.shields.io/badge/Support%20My%20Work-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rishabhn90)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:0a3d62,100:0d1117&height=100&section=footer" />
 
