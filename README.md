@@ -15,9 +15,9 @@
 
 ## 🧠 About Me
 
-I'm a **Machine Learning Engineer** and **Computer Vision enthusiast** completing my BCA at Graphic Era University. I build end-to-end AI systems — from gesture-controlled desktops to RAG-powered chatbots using Claude API.
+I'm a **Machine Learning Engineer** and **Computer Vision enthusiast**. I build end-to-end AI systems — from gesture-controlled desktops to RAG-powered chatbots using Claude API.
 
-- 🔭 Building → **VisionDesk AI** — Vision Pro-inspired, gesture-controlled AI desktop
+- 🔭 Building → **AI Resume Analyzer** — Analyze resumes and suggest improvements based on job descriptions
 - 🤖 Experienced in → **RAG pipelines, LLM applications, CV systems, ML deployment**
 - 🏢 Previously → **ML Engineer Intern** — optimized inference 35%, deployed RAG chatbots, automated pipelines
 - 🎓 Graduating → **2026** · Available for full-time roles & collaborations
